@@ -29,6 +29,9 @@
     .col-md-4.portfolio-item {
         width: 33%;
     }
+	#home-slider .slider-birds1 {
+    bottom: 145px;
+	}
 }
 
 
