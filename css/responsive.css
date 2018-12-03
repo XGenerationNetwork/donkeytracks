@@ -67,6 +67,9 @@
 /* sm */
 
 @media only screen and (max-width: 992px) {
+	.navbar-header .navbar-brand img {
+		width:300px;
+	}
 	iframe {
 		width:100% !important;
 	}
